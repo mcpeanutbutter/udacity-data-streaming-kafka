@@ -1,3 +1,4 @@
 .tempfile
 .workspace-config.json
 .ipynb_checkpoints
+startup/startup.log
